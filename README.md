@@ -1,2 +1,1 @@
-# capstone
-GBC - Capstone Documents
+### GBC - Capstone Documents
